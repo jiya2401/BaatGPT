@@ -4,7 +4,7 @@
 
 ## ✨ Features
 
-- 🔒 Secure OpenAI API (backend only)
+- 🔒 Secure OpenAI API (gpt-4o-mini)
 - 📜 Chat history (MongoDB Atlas)
 - 🖤 Dark ChatGPT-like UI
 - 📱 Responsive design
