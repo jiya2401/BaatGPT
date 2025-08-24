@@ -12,7 +12,7 @@
 - ⚠️ “Knowledge updated till 2023” disclaimer
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
